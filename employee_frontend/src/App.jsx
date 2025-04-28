@@ -304,6 +304,7 @@ function App() {
         />
         </div>
 
+        
         <table className="emp_table" {...getTableProps()}>
           <thead>
             {headerGroups.map(headerGroup => (
@@ -334,6 +335,9 @@ function App() {
             })}
           </tbody>
         </table>
+        
+        
+       
 
         <div className="pagination">
           <button className="pagination_btn" disabled={!canPreviousPage} onClick={() => gotoPage(0)}>

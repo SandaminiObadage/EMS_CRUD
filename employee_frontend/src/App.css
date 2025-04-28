@@ -1,4 +1,4 @@
-.empdiv {
+ .empdiv {
   width: 588px;
   height: fit-content;
   margin-left: 77px;
@@ -185,4 +185,6 @@ tr:nth-child(even) {
   width: 500px;
   height: auto; 
   z-index: 1000; 
-}
+} 
+
+
