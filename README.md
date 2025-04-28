@@ -140,19 +140,19 @@ Backend
 Screenshots:
 
 ### Home Page
-![Home Page](employee_frontend\public\screenshots\EMS_homepage.png)
+![Home Page](employee_frontend/public/screenshots/EMS_homepage.png)
 
 ### About Page
-![About Page](employee_frontend\public\screenshots\EMS_aboutpage.png)
+![About Page](employee_frontend/public/screenshots/EMS_aboutpage.png)
 
 ### Contact Form
-![Contact Form](employee_frontend\public\screenshots\EMS_contactpage.png)
+![Contact Form](employee_frontend/public/screenshots/EMS_contactpage.png)
 
 ### Database_emp
-![Db_emp](employee_frontend\public\screenshots\EMS_db_employyes.png)
+![Db_emp](employee_frontend/public/screenshots/EMS_db_employyes.png)
 
 ### Database_contact
-![Db_contact](employee_frontend\public\screenshots\EMS_db_contactform.png)
+![Db_contact](employee_frontend/public/screenshots/EMS_db_contactform.png)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
