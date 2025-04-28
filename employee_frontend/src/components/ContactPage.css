@@ -1,0 +1,60 @@
+UD\employee_frontend\src\components\ContactPage.css */
+.contact-page {
+  text-align: center;
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 800px;
+  font-family: Arial, sans-serif;
+}
+
+.contact-page h1 {
+  font-size: 2.5rem;
+  color: #b8b3b3;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.contact-page p {
+  font-size: 1.2rem;
+  color: #817d7d;
+  line-height: 1.6;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.contact-form label {
+  font-size: 1rem;
+  color: #6b6868;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  
+}
+
+.contact-form button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #476f9a;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100px;
+  text-align: center;
+  
+  
+}
+
+.contact-form button:hover {
+  background-color: #0056b3;
+}
